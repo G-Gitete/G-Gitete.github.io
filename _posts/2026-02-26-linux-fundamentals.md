@@ -12,7 +12,7 @@ tags: [Linux, basics, cyber-soldier]
 **Core Competencies Mastered**
 * Navigation: Moving through directories and managing files using 'cd', 'ls', and 'mkdr'.
 * Data Filtering: Searching through logs and text files using 'grep' and 'cat'.
-![Linux navigation VPN set-up](/assets/VPN-connection.png) {: width="500" }
+![Linux navigation VPN set-up](/assets/VPN-connection.png){: width="500" }
 **Analysis**
 * Understanding the Linux environment is critical for a Security Analyst.
   
