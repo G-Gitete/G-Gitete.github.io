@@ -3,6 +3,7 @@ title: "Linux Fundamentals"
 date: 2026-02-25
 categories: [Cybersecurity, Training]
 tags: [Linux, basics, cyber-soldier]
+image: ![Linux Fundamentals](/assets/Linux.jfif)
 ---
 
 **Objective**
